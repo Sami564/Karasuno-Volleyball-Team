@@ -1,0 +1,29 @@
+main div
+{
+    background-color: #333;
+    width: 90%;
+    height: 500px;
+    margin: 50px 0px 0px 0px;
+    border-radius: 250px;
+    position: relative;
+    right: 50px;
+    left: 50px;
+    box-shadow: 10px 10px 10px rgba( 0, 0, 0, 0.30);
+}
+
+main div p
+{
+    position: relative;
+    text-align : center;
+    font-family: "Luckiest Guy", cursive;
+    top: 150px;
+    font-size: 50px;
+}
+
+span a
+{
+    text-decoration: underline;
+    color: #fff;
+    font-size: 50px;
+    display: block;
+}
